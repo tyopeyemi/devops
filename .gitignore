@@ -1,0 +1,4 @@
+logs/		This is elative path to repository  root directory
+/logs/*.txt   Not this  absolute  path  relative to   the root of our Repository
+/logs
+git add  .gitignore
